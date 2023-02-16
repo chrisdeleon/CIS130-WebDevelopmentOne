@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+div {
+  background-color: lightyellow;
+}
+
+.css {
+  width: 90%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+}
+
+img {
+  max-height: 100px;
+  max-width: 100px;
+}
